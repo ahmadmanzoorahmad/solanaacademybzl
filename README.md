@@ -104,16 +104,6 @@ onchain-academy/app/
 - **Netlify**: `netlify.toml` at repo root with base=`onchain-academy/app`, `@netlify/plugin-nextjs`
 - TypeScript build passes cleanly (12 routes, 9 static + 3 dynamic)
 
-## Recent Changes
-- 2026-02-24: Created Next.js App Router project with full page set, i18n, services, and UI components
-- 2026-02-24: Added SolanaProvider, WalletButton, service layer, Monaco editor, Sentry, GA4, i18n
-- 2026-02-24: Implemented Token-2022 XP reads, Helius DAS credentials/leaderboard, level system
-- 2026-02-24: Added /certificates/[id], /verify/[mint], credential sections on identity/profile pages
-- 2026-02-24: Dashboard greeting now wallet-aware (shortenAddress when connected, generic otherwise)
-- 2026-02-24: Moved legacy Vite SPA files to `legacy-ui/` directory
-- 2026-02-24: Added netlify.toml with @netlify/plugin-nextjs, Deploy to Netlify section in README
-- 2026-02-24: Verified clean TypeScript build (0 errors, all routes 200)
-
 ## User Preferences
 - Dark mode primary design
 - Solana brand colors (#14F195 green, #9945FF purple)
