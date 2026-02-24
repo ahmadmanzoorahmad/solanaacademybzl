@@ -1,0 +1,233 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "close": "Close",
+    "continue": "Continue",
+    "back": "Back",
+    "viewAll": "View All",
+    "noData": "No data available"
+  },
+  "header": {
+    "courses": "Courses",
+    "leaderboard": "Leaderboard",
+    "identity": "Identity",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "home": "Home"
+  },
+  "language": {
+    "english": "English",
+    "portuguese": "Português",
+    "spanish": "Español",
+    "current": "Language"
+  },
+  "wallet": {
+    "connect": "Connect Wallet",
+    "disconnect": "Disconnect",
+    "connected": "Connected",
+    "balance": "Balance",
+    "copied": "Copied!",
+    "copyAddress": "Copy address",
+    "explorer": "View on Explorer"
+  },
+  "landing": {
+    "badge": "Powered by Superteam",
+    "title": "The Ultimate",
+    "titleHighlight": "Solana Learning",
+    "titleEnd": "Platform",
+    "subtitle": "Codecademy-style learning. On-chain credentials. Built for crypto natives.",
+    "startLearning": "Start Learning",
+    "exploreCourses": "Explore Courses",
+    "stats": {
+      "learners": "Active Learners",
+      "courses": "Courses",
+      "xpEarned": "XP Earned",
+      "onChain": "On-Chain"
+    },
+    "features": {
+      "title": "Why Superteam Academy?",
+      "interactive": "Interactive Learning",
+      "interactiveDesc": "Learn by doing with hands-on coding challenges and real Solana programs.",
+      "credentials": "On-Chain Credentials",
+      "credentialsDesc": "Earn NFT certificates that prove your skills on the Solana blockchain.",
+      "community": "Community Driven",
+      "communityDesc": "Join thousands of developers building the future of Web3.",
+      "gamified": "Gamified Experience",
+      "gamifiedDesc": "Earn XP, unlock achievements, and climb the leaderboard."
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back 👋",
+    "subtitle": "Continue your learning journey",
+    "totalXp": "Total XP",
+    "globalRank": "Global Rank",
+    "dayStreak": "Day Streak",
+    "quickStats": "Quick Stats",
+    "coursesEnrolled": "Courses Enrolled",
+    "achievements": "Achievements",
+    "certificates": "Certificates",
+    "viewLeaderboard": "View Leaderboard",
+    "continueLearning": "Continue Learning",
+    "progress": "Progress",
+    "continueLesson": "Continue",
+    "xpBalance": "XP Balance",
+    "onChainXp": "On-Chain XP"
+  },
+  "courses": {
+    "title": "Course Catalog",
+    "subtitle": "Explore our comprehensive Solana development courses",
+    "searchPlaceholder": "Search courses...",
+    "all": "All",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "enrolled": "Enrolled",
+    "enroll": "Enroll Now",
+    "xpReward": "XP",
+    "students": "students",
+    "hours": "hours",
+    "backToCourses": "Back to Courses",
+    "curriculum": "Curriculum",
+    "lessons": "lessons",
+    "completed": "Completed"
+  },
+  "lesson": {
+    "backTo": "Back to",
+    "markComplete": "Mark as Complete",
+    "runCode": "Run Code",
+    "resetCode": "Reset",
+    "tests": "Tests",
+    "console": "Console",
+    "editor": "Editor",
+    "content": "Content",
+    "challenge": "Challenge",
+    "testsPassed": "tests passed",
+    "testsTotal": "total",
+    "noOutput": "Run your code to see output here",
+    "allTestsPassed": "All tests passed! You can mark this lesson as complete."
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "subtitle": "See how you rank among learners",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "allTime": "All Time",
+    "filterByTrack": "Filter by Track",
+    "allTracks": "All Tracks",
+    "rank": "Rank",
+    "user": "User",
+    "wallet": "Wallet",
+    "xp": "XP",
+    "level": "Level",
+    "streak": "Streak",
+    "you": "You",
+    "updateNote": "Leaderboard updates every 15 minutes",
+    "loading": "Loading leaderboard...",
+    "empty": "No learners found"
+  },
+  "identity": {
+    "title": "Digital Identity",
+    "subtitle": "Your on-chain learning credentials and achievements",
+    "nftAchievements": "NFT Achievements",
+    "certificates": "Certificates",
+    "totalXp": "Total XP On-Chain",
+    "earned": "Earned",
+    "locked": "Locked",
+    "verified": "Verified",
+    "view": "View",
+    "noCredentials": "No credentials yet. Complete courses to earn on-chain certificates!",
+    "connectWallet": "Connect your wallet to view on-chain credentials"
+  },
+  "profile": {
+    "achievements": "Achievements",
+    "skills": "Skills",
+    "level": "Level",
+    "xp": "XP",
+    "rank": "Rank"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your account settings and preferences",
+    "tabs": {
+      "profile": "Profile",
+      "accounts": "Accounts",
+      "preferences": "Preferences",
+      "notifications": "Notifications",
+      "privacy": "Privacy"
+    },
+    "profile": {
+      "title": "Profile Information",
+      "picture": "Profile Picture",
+      "changePhoto": "Change Photo",
+      "fullName": "Full Name",
+      "username": "Username",
+      "bio": "Bio",
+      "twitter": "Twitter",
+      "github": "GitHub",
+      "saveChanges": "Save Changes"
+    },
+    "accounts": {
+      "title": "Connected Accounts",
+      "solanaWallet": "Solana Wallet",
+      "disconnect": "Disconnect",
+      "connect": "Connect",
+      "notConnected": "Not connected"
+    },
+    "preferences": {
+      "title": "Preferences",
+      "language": "Language",
+      "languageDesc": "Choose your preferred language for the interface",
+      "theme": "Theme",
+      "themeLight": "Light",
+      "themeDark": "Dark",
+      "themeSystem": "System",
+      "devMode": "Developer Mode",
+      "devModeDesc": "Show translation keys as tooltips for debugging"
+    },
+    "notifications": {
+      "title": "Notification Preferences",
+      "email": "Email Notifications",
+      "emailDesc": "Receive emails about your activity and updates",
+      "push": "Push Notifications",
+      "pushDesc": "Receive push notifications in your browser",
+      "courseUpdates": "Course Updates",
+      "courseUpdatesDesc": "Notifications about new lessons and courses",
+      "achievements": "Achievements",
+      "achievementsDesc": "Get notified when you unlock achievements"
+    },
+    "privacy": {
+      "title": "Privacy Settings",
+      "publicProfile": "Public Profile",
+      "publicProfileDesc": "Make your profile visible to other users",
+      "leaderboard": "Show on Leaderboard",
+      "leaderboardDesc": "Display your stats on the global leaderboard",
+      "activity": "Activity Status",
+      "activityDesc": "Show when you're actively learning",
+      "dataManagement": "Data Management",
+      "downloadData": "Download My Data",
+      "downloadDataDesc": "Export all your learning data and progress",
+      "deleteAccount": "Delete Account",
+      "deleteAccountDesc": "Permanently delete your account and all data"
+    }
+  },
+  "footer": {
+    "description": "The ultimate Solana learning platform. Master blockchain development with interactive courses and on-chain credentials.",
+    "platform": "Platform",
+    "resources": "Resources",
+    "community": "Community",
+    "documentation": "Documentation",
+    "apiReference": "API Reference",
+    "discord": "Discord",
+    "twitter": "Twitter",
+    "github": "GitHub",
+    "rights": "All rights reserved.",
+    "poweredBy": "Built on Solana"
+  }
+}
